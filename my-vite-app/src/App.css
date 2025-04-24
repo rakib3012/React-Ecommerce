@@ -1,1 +1,10 @@
  
+ h1{color: brown;
+    font-size: 30px;
+}
+
+p{
+    background-color: chocolate;
+    color: brown;
+    margin-top: 50px;
+}

@@ -9,6 +9,7 @@ function App() {
   return (
     <>
      <h1>This is a Shope .</h1>
+     <p>new project create hoba akhon</p>
     </>
   )
 }
